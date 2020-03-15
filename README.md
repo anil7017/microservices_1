@@ -1,4 +1,4 @@
-# microservices_1
+# Using Spring boot application as dependency in another Spring boot application project
 
 Spring boot 2
 -------------
