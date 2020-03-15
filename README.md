@@ -4,9 +4,7 @@ Spring boot 2
 -------------
 
 <build>
-    ...
     <plugins>
-        ...
         <plugin>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-maven-plugin</artifactId>
